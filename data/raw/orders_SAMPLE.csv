@@ -1,0 +1,53 @@
+order_id,order_date,customer,city,product,category,qty,unit_price,line_total,payment_method
+1,2026-01-08,Ayesha Khan,Lahore,Wireless Mouse,Electronics,2,2500,5000,Cash
+1,2026-01-08,Ayesha Khan,Lahore,Notebook Set,Stationery,3,1200,3600,Cash
+2,2026-02-14,Ayesha Khan,Lahore,Mechanical Keyboard,Electronics,1,8500,8500,JazzCash
+2,2026-02-14,Ayesha Khan,Lahore,Ceramic Mug Set,Kitchen,2,3200,6400,JazzCash
+3,2026-04-02,Ayesha Khan,Lahore,Office Chair,Furniture,1,18000,18000,Easypaisa
+4,2026-01-15,Bilal Ahmed,Karachi,Wireless Mouse,Electronics,1,2500,2500,Bank Transfer
+4,2026-01-15,Bilal Ahmed,Karachi,Laptop Stand,Electronics,1,4500,4500,Bank Transfer
+5,2026-03-20,Bilal Ahmed,Karachi,Dinner Set 24pc,Kitchen,1,14500,14500,Card
+6,2026-05-11,Bilal Ahmed,Karachi,Mechanical Keyboard,Electronics,1,8500,8500,Cash
+6,2026-05-11,Bilal Ahmed,Karachi,Desk Lamp,Furniture,2,4200,8400,Cash
+7,2026-01-22,Fatima Noor,Islamabad,Notebook Set,Stationery,5,1200,6000,JazzCash
+8,2026-02-28,Fatima Noor,Islamabad,Wireless Mouse,Electronics,2,2500,5000,Easypaisa
+8,2026-02-28,Fatima Noor,Islamabad,Ceramic Mug Set,Kitchen,1,3200,3200,Easypaisa
+9,2026-06-05,Fatima Noor,Islamabad,Laptop Stand,Electronics,1,4500,4500,Bank Transfer
+9,2026-06-05,Fatima Noor,Islamabad,Dinner Set 24pc,Kitchen,1,14500,14500,Bank Transfer
+10,2026-02-05,Usman Tariq,Lahore,Desk Lamp,Furniture,1,4200,4200,Card
+11,2026-04-18,Usman Tariq,Lahore,Office Chair,Furniture,1,18000,18000,Cash
+11,2026-04-18,Usman Tariq,Lahore,Notebook Set,Stationery,2,1200,2400,Cash
+12,2026-02-12,Zainab Ali,Karachi,Ceramic Mug Set,Kitchen,3,3200,9600,JazzCash
+13,2026-05-25,Zainab Ali,Karachi,Mechanical Keyboard,Electronics,1,8500,8500,Easypaisa
+13,2026-05-25,Zainab Ali,Karachi,Wireless Mouse,Electronics,1,2500,2500,Easypaisa
+14,2026-03-03,Hassan Raza,Faisalabad,Notebook Set,Stationery,4,1200,4800,Bank Transfer
+15,2026-03-29,Hassan Raza,Faisalabad,Wireless Mouse,Electronics,1,2500,2500,Card
+15,2026-03-29,Hassan Raza,Faisalabad,Desk Lamp,Furniture,1,4200,4200,Card
+16,2026-06-12,Hassan Raza,Faisalabad,Dinner Set 24pc,Kitchen,1,14500,14500,Cash
+17,2026-03-15,Maryam Iqbal,Islamabad,Laptop Stand,Electronics,1,4500,4500,JazzCash
+18,2026-04-22,Maryam Iqbal,Islamabad,Mechanical Keyboard,Electronics,1,8500,8500,Easypaisa
+18,2026-04-22,Maryam Iqbal,Islamabad,Ceramic Mug Set,Kitchen,2,3200,6400,Easypaisa
+19,2026-01-30,Omar Sheikh,Lahore,Wireless Mouse,Electronics,3,2500,7500,Bank Transfer
+20,2026-05-08,Omar Sheikh,Lahore,Office Chair,Furniture,1,18000,18000,Card
+21,2026-04-10,Sana Malik,Karachi,Notebook Set,Stationery,2,1200,2400,Cash
+22,2026-06-20,Sana Malik,Karachi,Dinner Set 24pc,Kitchen,1,14500,14500,JazzCash
+22,2026-06-20,Sana Malik,Karachi,Desk Lamp,Furniture,1,4200,4200,JazzCash
+23,2026-04-15,Ali Nawaz,Multan,Ceramic Mug Set,Kitchen,2,3200,6400,Easypaisa
+24,2026-05-30,Ali Nawaz,Multan,Mechanical Keyboard,Electronics,1,8500,8500,Bank Transfer
+25,2026-06-18,Ayesha Khan,Lahore,Desk Lamp,Furniture,2,4200,8400,Card
+25,2026-06-18,Ayesha Khan,Lahore,Notebook Set,Stationery,3,1200,3600,Card
+26,2026-06-25,Bilal Ahmed,Karachi,Wireless Mouse,Electronics,2,2500,5000,Cash
+27,2026-06-02,Usman Tariq,Lahore,Laptop Stand,Electronics,1,4500,4500,JazzCash
+27,2026-06-02,Usman Tariq,Lahore,Wireless Mouse,Electronics,1,2500,2500,JazzCash
+28,2026-01-19,Zainab Ali,Karachi,Notebook Set,Stationery,4,1200,4800,Easypaisa
+29,2026-06-28,Maryam Iqbal,Islamabad,Office Chair,Furniture,1,18000,18000,Bank Transfer
+30,2026-02-21,Omar Sheikh,Lahore,Desk Lamp,Furniture,1,4200,4200,Card
+30,2026-02-21,Omar Sheikh,Lahore,Ceramic Mug Set,Kitchen,1,3200,3200,Card
+31,2026-02-08,Sana Malik,Karachi,Wireless Mouse,Electronics,1,2500,2500,Cash
+32,2026-05-14,Fatima Noor,Islamabad,Mechanical Keyboard,Electronics,1,8500,8500,JazzCash
+32,2026-05-14,Fatima Noor,Islamabad,Notebook Set,Stationery,2,1200,2400,JazzCash
+1,2026-01-08,Ayesha Khan,Lahore,Ceramic Mug Set,Kitchen,1,3200,3200,Cash
+6,2026-05-11,Bilal Ahmed,Karachi,Ceramic Mug Set,Kitchen,1,3200,3200,Cash
+10,2026-02-05,Usman Tariq,Lahore,Ceramic Mug Set,Kitchen,1,3200,3200,Card
+20,2026-05-08,Omar Sheikh,Lahore,Notebook Set,Stationery,1,1200,1200,Card
+24,2026-05-30,Ali Nawaz,Multan,Ceramic Mug Set,Kitchen,1,3200,3200,Bank Transfer

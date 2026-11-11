@@ -1,0 +1,89 @@
+{
+  "average_order_value_pkr": 10837.5,
+  "best_minus_worst_pkr": 63700,
+  "best_month": "2026-06",
+  "best_month_sales_pkr": 94200,
+  "best_weekday": "Thursday",
+  "best_weekday_sales_pkr": 87700,
+  "category_sales_pkr": {
+    "Electronics": 104000,
+    "Furniture": 105600,
+    "Kitchen": 106000,
+    "Stationery": 31200
+  },
+  "category_share_pct": {
+    "Electronics": 29.99,
+    "Furniture": 30.45,
+    "Kitchen": 30.57,
+    "Stationery": 9.0
+  },
+  "charts": [
+    "BarChart: sales by category",
+    "LineChart: monthly trend",
+    "PieChart: category share"
+  ],
+  "checks_passed": 61,
+  "customers_ordering": 10,
+  "grand_total_pkr": 346800,
+  "libreoffice_note": "LibreOffice headless recalculation 2026-11-11: every KPI and pivot-table value evaluates to the Python-computed numbers (grand total 346,800; all 10 tables; 3 charts present).",
+  "libreoffice_recalc_verified": true,
+  "monthly_sales_pkr": {
+    "2026-01": 37100,
+    "2026-02": 50000,
+    "2026-03": 30500,
+    "2026-04": 62100,
+    "2026-05": 72900,
+    "2026-06": 94200
+  },
+  "notes": [
+    "payment_method is a SAMPLE attribute added for this pack only (deterministic cycle by order_id); it is not in Mini #1/#3/#10 and changes no money total.",
+    "No post-2007 Excel function is used (no AGGREGATE/MINIFS/MAXIFS/XLOOKUP), so no _xlfn. prefix is needed.",
+    "openpyxl cannot create native pivot tables; the workbook teaches each technique as a live-formula summary table and pivot_guide.md gives the real-pivot build."
+  ],
+  "order_lines": 52,
+  "orders": 32,
+  "orders_by_payment_method": {
+    "Bank Transfer": 6,
+    "Card": 6,
+    "Cash": 7,
+    "Easypaisa": 6,
+    "JazzCash": 7
+  },
+  "pack": "Mini #11 \u2014 Excel Pivot Tables & Charts Pack",
+  "period": "2026-01 to 2026-06",
+  "products_sold": 8,
+  "running_total_pkr": [
+    37100,
+    87100,
+    117600,
+    179700,
+    252600,
+    346800
+  ],
+  "shop": "Same fictional shop as Mini #1 / Mini #3 / Mini #10",
+  "status": "SAMPLE data, real formulas",
+  "top_5_products_pkr": {
+    "Ceramic Mug Set": 48000,
+    "Dinner Set 24pc": 58000,
+    "Mechanical Keyboard": 51000,
+    "Office Chair": 72000,
+    "Wireless Mouse": 35000
+  },
+  "top_category": "Kitchen",
+  "top_category_sales_pkr": 106000,
+  "top_customer_aov": "Ayesha Khan",
+  "top_customer_aov_pkr": 14175.0,
+  "top_product": "Office Chair",
+  "top_product_sales_pkr": 72000,
+  "weekday_sales_pkr": {
+    "Friday": 77100,
+    "Monday": 35900,
+    "Saturday": 81300,
+    "Sunday": 31700,
+    "Thursday": 87700,
+    "Tuesday": 11800,
+    "Wednesday": 21300
+  },
+  "worst_month": "2026-03",
+  "worst_month_sales_pkr": 30500
+}
