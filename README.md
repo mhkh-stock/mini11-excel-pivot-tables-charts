@@ -1,6 +1,6 @@
 # Mini #11 — Excel Pivot Tables & Charts Pack
 
-**Status:** built and verified locally; GitHub publish pending.
+**Status:** built, verified, and published on GitHub.
 
 **SAMPLE / DEMO data only.** Fictional shop, fictional people, fictional orders.
 Never claimed as real client or real business data.
@@ -119,4 +119,4 @@ from the CSV (see `outputs/summary.json`).
 
 ## Published
 
-Not yet published on GitHub — local build only.
+Published on GitHub: https://github.com/mhkh-stock/mini11-excel-pivot-tables-charts
